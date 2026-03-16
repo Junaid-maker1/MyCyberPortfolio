@@ -11,9 +11,7 @@ Goal: OSCP certification and becoming a professional penetration tester.
 Complete beginner. Learning every day.
 
 ## What I Have Done So Far
-- Completed OverTheWire Bandit Level 0-34
-- Learning Linux deeply
-- Currently studying networking fundamentals
+-Basic Networking 
 
 ## My Roadmap
 - [ ] Linux fundamentals — In Progress
